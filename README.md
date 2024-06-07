@@ -1,7 +1,6 @@
 # learning-flask
 
-![13acb0a7-6518-43bb-97c0-97f33c7c274f](https://github.com/shikharyashmaurya/learning-flask/assets/115296619/ea6db03e-0862-4f36-93c6-f162700f289e)
-
+![23b800a4-7836-48d8-a061-27f3192890e4](https://github.com/shikharyashmaurya/flask-learning/assets/115296619/5bcdb2aa-6616-44d0-a0c1-1f5093e55687)
 
 learning to use flask
 
